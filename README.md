@@ -81,13 +81,6 @@ KPIs:
 
 ---
 
-## Future Enhancements
-
-- Power Pivot and DAX measures
-- Automated audit execution
-- Automated report generation and distribution
-- Trend analysis across reporting periods
-
 ## Dashboards
 
 <img width="1385" height="805" alt="image" src="https://github.com/user-attachments/assets/015e8fe1-480f-4281-8d3f-b9deec8d2590" />
